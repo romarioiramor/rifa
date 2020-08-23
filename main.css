@@ -1,0 +1,25 @@
+body {
+  padding: 7px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  padding: 7px;
+}
+.table {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+#form-nome {
+  text-align: center;
+}
+
+#confirmar {
+  width: 100%;
+}
